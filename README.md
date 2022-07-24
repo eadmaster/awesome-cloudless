@@ -46,7 +46,15 @@ Not admitted: DIY devices
 | Osram        | Retrofit RGBW | YES (uses IR) |     |
 
 
-## Vacuum Cleaners
+## Vacuum cleaners
+
+
+
+
+## CFW projects
+
+ - [Gadgetbridge (for smartwatches)](https://github.com/Freeyourgadget/Gadgetbridge)
+ - [Valetudo (for Vacuum cleaners)](https://github.com/Hypfer/Valetudo)
 
 
 ## Similar lists
