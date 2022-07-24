@@ -55,6 +55,7 @@ Not admitted: DIY devices
 
  - [Gadgetbridge (for smartwatches)](https://github.com/Freeyourgadget/Gadgetbridge)
  - [Valetudo (for Vacuum cleaners)](https://github.com/Hypfer/Valetudo)
+ - [Xiaomi-Dafang-Hacks (for security cameras)](https://github.com/EliasKotlyar/Xiaomi-Dafang-Hacks)
 
 
 ## Similar lists
