@@ -4,17 +4,21 @@ Curated list of awesome smart devices that can operate without an internet conne
 
 Admission requirements:
 
- - must be a wifi-enabled device, so no Bluetooth/LoRa/similar PAN devices
- - no DIY devices
+ - no DIY devices (but hacks and CFW are ok)
+ - Bluetooth and IR-controlled devices are ok
   
-## Smart plugs
+Not admitted: DIY devices
+
+
+## Smart wall plugs
 
 | Manufacturer | Model    | Cloudless     | Reported  |
 | ------------ | -------- | ------------- | ----------|
 | Wyze         | ??       | NO            | https://www.uncloud.community/t/wyze-smart-plugs/84 |
 | TP-Link      | Kasa series | YES (account still req. for some features)        | https://www.tp-link.com/us/support/faq/2707/ |
+| BroadLink    | SP3 (others too?) | YES ([python lib here](https://github.com/mjg59/python-broadlink), on Android use [this unoffical app](https://play.google.com/store/apps/details?id=ua.com.lavi.broadlinkclient))
+
 	
-  
 ## Surveillance & security cameras
 
 | Manufacturer | Model    | Cloudless     | Reported |
@@ -23,7 +27,17 @@ Admission requirements:
 | TP-Link      | Kasa series | YES (account still req. for some features)  | [official site](https://www.tp-link.com/us/support/faq/2707/) |
 | EZVIZ        | all models? | YES (only live view? [Possibly more features can be unlocked](https://github.com/BaQs/pyEzviz/issues/61)) | 
 
-  
-Similar lists
+
+## Lights
+
+| Manufacturer | Model    | Cloudless     | Reported |
+| ------------ | -------- | ------------- | ---------|
+| Osram        | Retrofit RGBW | YES (uses IR) |     |
+
+
+## Vacuum Cleaners
+
+
+## Similar lists
 
  - https://www.uncloud.community/
