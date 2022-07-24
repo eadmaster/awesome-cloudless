@@ -1,6 +1,6 @@
 # awesome_cloudless
 
-Curated list of awesome smart devices that can operate without an internet connection.
+Curated list of awesome smart devices that can operate without an internet connection and a private cloud subscription.
 
 Admission requirements:
 
@@ -9,8 +9,8 @@ Admission requirements:
   
 Not admitted: DIY devices
 
-Why?
 
+## Why?
 
 >>>>>
  - Independence from external services (e.g. service failure).
