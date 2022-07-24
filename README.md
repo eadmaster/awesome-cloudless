@@ -9,6 +9,17 @@ Admission requirements:
   
 Not admitted: DIY devices
 
+Why?
+
+
+>>>>>
+ - Independence from external services (e.g. service failure).
+ - Independence from stable internet connection
+ - Independence from discontinuation of products or support of them from providers
+ - Sovereignty over own data
+ - Usually cheaper than cloud products (no subscriptions, usually lower purchase price)
+
+(copied from [here](https://nocloud.info/en/home/))
 
 ## Smart wall plugs
 
@@ -41,3 +52,4 @@ Not admitted: DIY devices
 ## Similar lists
 
  - https://www.uncloud.community/
+
