@@ -30,6 +30,9 @@ Admission requirements:
 | DeLOCK    | 11826, 11827 | YES (Tasmota pre-installed) | https://templates.blakadder.com/preflashed.html |
 | Nous    | A5T, A1T | YES (Tasmota pre-installed) | https://templates.blakadder.com/preflashed.html |
 
+## USB switchers
+
+| DeLOCK    | WLAN EASY-USB Switch 11828 | YES (Tasmota pre-installed) | [https://templates.blakadder.com/preflashed.html](https://templates.blakadder.com/delock_11828.html) |
 	
 ## Surveillance & security cameras
 
@@ -45,9 +48,10 @@ Admission requirements:
 | Manufacturer | Model    | Cloudless     | Reported |
 | ------------ | -------- | ------------- | ---------|
 | Osram        | Retrofit RGBW | YES (uses IR) |     |
+| Cloudfree    | 1000lm A21 RGBCCT Bulb	CF-LBC | YES (Tasmota pre-installed) | https://templates.blakadder.com/preflashed.html |
+| Athom        | LB01 (many models) | YES (Tasmota pre-installed) | https://templates.blakadder.com/preflashed.html |
 
-
-## WiFi Extenders
+## WiFi Extenders, Bridges
 
 | Manufacturer | Model    | Cloudless     | Reported |
 | ------------ | -------- | ------------- | ---------|
@@ -55,8 +59,7 @@ Admission requirements:
 
 ## Vacuum cleaners
 
-
-## Wifi Bridges
+WANTED
 
 ## CFW projects
 
