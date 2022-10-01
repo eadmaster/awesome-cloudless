@@ -32,6 +32,8 @@ Admission requirements:
 
 ## USB switchers
 
+| Manufacturer | Model    | Cloudless     | Reported |
+| ------------ | -------- | ------------- | ---------|
 | DeLOCK    | WLAN EASY-USB Switch 11828 | YES (Tasmota pre-installed) | [https://templates.blakadder.com/preflashed.html](https://templates.blakadder.com/delock_11828.html) |
 	
 ## Surveillance & security cameras
