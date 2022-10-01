@@ -1,6 +1,6 @@
-# awesome_cloudless
+# Awesome Cloudless
 
-Curated list of awesome smart devices that can operate without an internet connection and a private cloud subscription.
+Curated list of smart home automation devices that can operate without an internet connection and a private cloud subscription.
 
 Admission requirements:
 
