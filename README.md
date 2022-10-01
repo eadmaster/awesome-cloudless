@@ -25,6 +25,10 @@ Admission requirements:
 | Wyze         | ??       | NO            | https://www.uncloud.community/t/wyze-smart-plugs/84 |
 | TP-Link      | Kasa series | YES (account still req. for some features)        | https://www.tp-link.com/us/support/faq/2707/ |
 | BroadLink    | SP3 (others too?) | YES ([python lib here](https://github.com/mjg59/python-broadlink), on Android use [this unoffical app](https://play.google.com/store/apps/details?id=ua.com.lavi.broadlinkclient))
+| Athom        | PG01EU16A, PG01V2-EU16A-TAS | YES (Tasmota pre-installed) | https://templates.blakadder.com/preflashed.html |
+| CloudFree    | P1EU | YES (Tasmota pre-installed) | https://templates.blakadder.com/preflashed.html |
+| DeLOCK    | 11826, 11827 | YES (Tasmota pre-installed) | https://templates.blakadder.com/preflashed.html |
+| Nous    | A5T, A1T | YES (Tasmota pre-installed) | https://templates.blakadder.com/preflashed.html |
 
 	
 ## Surveillance & security cameras
@@ -42,6 +46,12 @@ Admission requirements:
 | ------------ | -------- | ------------- | ---------|
 | Osram        | Retrofit RGBW | YES (uses IR) |     |
 
+
+## WiFi Extenders
+
+| Manufacturer | Model    | Cloudless     | Reported |
+| ------------ | -------- | ------------- | ---------|
+| GL.iNet      | all      | [YES](https://docs.gl-inet.com/en/2/setup/repeater_manager/) (openWRT) |          |
 
 ## Vacuum cleaners
 
