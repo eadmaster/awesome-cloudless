@@ -6,9 +6,6 @@ Admission requirements:
 
  - no DIY devices (but hacks and CFW are ok)
  - Bluetooth and IR-controlled devices are ok
-  
-Not admitted: DIY devices
-
 
 ## Why?
 
@@ -61,4 +58,5 @@ Not admitted: DIY devices
 ## Similar lists
 
  - https://www.uncloud.community/
-
+ - https://www.reddit.com/r/homeassistant/comments/dgdldn/cloudless_wifi_devices/
+ - https://www.reddit.com/r/homeautomation/comments/u1eamn/smart_devices_that_can_work_without_an_internet/
