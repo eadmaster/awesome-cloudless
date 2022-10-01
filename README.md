@@ -46,10 +46,11 @@ Admission requirements:
 ## Vacuum cleaners
 
 
-
+## Wifi Bridges
 
 ## CFW projects
 
+ - [Tasmota](https://templates.blakadder.com/)
  - [Gadgetbridge (for smartwatches)](https://github.com/Freeyourgadget/Gadgetbridge)
  - [Valetudo (for Vacuum cleaners)](https://github.com/Hypfer/Valetudo)
  - [Xiaomi-Dafang-Hacks (for security cameras)](https://github.com/EliasKotlyar/Xiaomi-Dafang-Hacks)
