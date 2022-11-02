@@ -45,7 +45,7 @@ Admission requirements:
 | EZVIZ        | all models? | YES (only live view? [Possibly more features can be unlocked](https://github.com/BaQs/pyEzviz/issues/61))  |
 | Goke GK7102  | all models? | NO (req. hack) | https://github.com/ant-thomas/zsgx1hacks | |
 
-see also [Xiaomi-Dafang-Hacks (for security cameras)](https://github.com/EliasKotlyar/Xiaomi-Dafang-Hacks)
+see also [Xiaomi-Dafang-Hacks](https://github.com/EliasKotlyar/Xiaomi-Dafang-Hacks)
 
 ## Lights
 
@@ -63,7 +63,8 @@ see also [Xiaomi-Dafang-Hacks (for security cameras)](https://github.com/EliasKo
 
 ## Vacuum cleaners
 
-see [Valetudo](https://github.com/Hypfer/Valetudo)
+see also [Valetudo](https://github.com/Hypfer/Valetudo)
+
 
 ## CFW projects
 
