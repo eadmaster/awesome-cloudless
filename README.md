@@ -42,8 +42,10 @@ Admission requirements:
 | ------------ | -------- | ------------- | ---------|
 | Amazon       | Blink series | NO        | [official site](https://support.blinkforhome.com/en_US/f-a-q/can-i-use-my-camera-offline-without-an-internet-connection) |
 | TP-Link      | Kasa series | YES (account still req. for some features)  | [official site](https://www.tp-link.com/us/support/faq/2707/) |
-| EZVIZ        | all models? | YES (only live view? [Possibly more features can be unlocked](https://github.com/BaQs/pyEzviz/issues/61)) | Goke GK7102  | all models? | NO (req. hack) | https://github.com/ant-thomas/zsgx1hacks |
+| EZVIZ        | all models? | YES (only live view? [Possibly more features can be unlocked](https://github.com/BaQs/pyEzviz/issues/61))  |
+| Goke GK7102  | all models? | NO (req. hack) | https://github.com/ant-thomas/zsgx1hacks | |
 
+see also [Xiaomi-Dafang-Hacks (for security cameras)](https://github.com/EliasKotlyar/Xiaomi-Dafang-Hacks)
 
 ## Lights
 
@@ -57,19 +59,17 @@ Admission requirements:
 
 | Manufacturer | Model    | Cloudless     | Reported |
 | ------------ | -------- | ------------- | ---------|
-| GL.iNet      | all      | [YES](https://docs.gl-inet.com/en/2/setup/repeater_manager/) (openWRT) |          |
+| GL.iNet      | all      | [YES](https://docs.gl-inet.com/en/2/setup/repeater_manager/) (openWRT-based) |          |
 
 ## Vacuum cleaners
 
-WANTED
+see [Valetudo](https://github.com/Hypfer/Valetudo)
 
 ## CFW projects
 
  - [Tasmota](https://templates.blakadder.com/)
  - [Gadgetbridge (for smartwatches)](https://github.com/Freeyourgadget/Gadgetbridge)
- - [Valetudo (for Vacuum cleaners)](https://github.com/Hypfer/Valetudo)
- - [Xiaomi-Dafang-Hacks (for security cameras)](https://github.com/EliasKotlyar/Xiaomi-Dafang-Hacks)
-
+ 
 
 ## Similar lists
 
