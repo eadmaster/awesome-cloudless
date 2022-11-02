@@ -24,7 +24,7 @@ Admission requirements:
 | ------------ | -------- | ------------- | ----------|
 | Wyze         | ??       | NO            | https://www.uncloud.community/t/wyze-smart-plugs/84 |
 | TP-Link      | Kasa series | YES (account still req. for some features)        | https://www.tp-link.com/us/support/faq/2707/ |
-| BroadLink    | SP3 (others too?) | YES ([python lib here](https://github.com/mjg59/python-broadlink), on Android use [this unoffical app](https://play.google.com/store/apps/details?id=ua.com.lavi.broadlinkclient))
+| BroadLink    | SP series, MP series, and more | YES ([python lib here](https://github.com/mjg59/python-broadlink), on Android use [this unoffical app](https://play.google.com/store/apps/details?id=ua.com.lavi.broadlinkclient))
 | Athom        | PG01EU16A, PG01V2-EU16A-TAS | YES (Tasmota pre-installed) | https://templates.blakadder.com/preflashed.html |
 | CloudFree    | P1EU | YES (Tasmota pre-installed) | https://templates.blakadder.com/preflashed.html |
 | DeLOCK    | 11826, 11827 | YES (Tasmota pre-installed) | https://templates.blakadder.com/preflashed.html |
@@ -42,7 +42,7 @@ Admission requirements:
 | ------------ | -------- | ------------- | ---------|
 | Amazon       | Blink series | NO        | [official site](https://support.blinkforhome.com/en_US/f-a-q/can-i-use-my-camera-offline-without-an-internet-connection) |
 | TP-Link      | Kasa series | YES (account still req. for some features)  | [official site](https://www.tp-link.com/us/support/faq/2707/) |
-| EZVIZ        | all models? | YES (only live view? [Possibly more features can be unlocked](https://github.com/BaQs/pyEzviz/issues/61)) | 
+| EZVIZ        | all models? | YES (only live view? [Possibly more features can be unlocked](https://github.com/BaQs/pyEzviz/issues/61)) | Goke GK7102  | all models? | NO (req. hack) | https://github.com/ant-thomas/zsgx1hacks |
 
 
 ## Lights
